@@ -29,5 +29,26 @@ This Power BI dashboard provides an interactive view of sales performance across
 - Power BI Desktop (latest version)
 - Windows 10 or later (recommended)
 
+# Business Questions & Key Insights
+
+### Which countries drive the most revenue?
+- **Insight:** The USA leads total sales by a significant margin, followed by Spain and France.
+
+### Is revenue growing over time?
+- **Insight:** Revenue fluctuates throughout the year, with a noticeable peak in the later months, indicating seasonal demand patterns.
+
+### Which product category generates the most revenue?
+- **Insight:** Classic Cars account for approximately **40% of total revenue**, making it the highest-performing category.
+
+### What are the top revenue-generating products?
+- **Insight:** A small number of products contribute a large portion of total revenue, highlighting a strong Pareto (80/20) effect.
+
+### Who are the most valuable customers?
+- **Insight:** Key customers generate a significant share of total sales, suggesting strong opportunities for retention and loyalty strategies.
+
+### How are deals distributed by size?
+- **Insight:** Most deals are Medium-sized, while Large deals, though fewer, contribute substantially to total revenue.
+
+
 # License
 MIT License
